@@ -8,6 +8,8 @@ This is the official PyTorch implementation for the paper:
 
 This repository is built on top of the main paper proposed by Xiaolei Wang*, Kun Zhou*, Ji-Rong Wen, Wayne Xin Zhao. Please refer to the github repository link in the acknowledgement section to find out more of their source code. Do note that we credit and appreciate all of the work to the original authors of UniCRS. Without them, it would have been impossible for us to build our working version of the chat bot on telegram. 
 
+This repository was created for the final project of CS608 Recommender Systems at Singapore Management University.
+
 Over here, we have consolidated the training procedure of UniCRS, inference commands for UniCRS as well as the deployment of the Telegram bot on google colab in the following file:
 - UniCRS_commandline.ipynb
 
@@ -57,3 +59,8 @@ Without them, this chatbot would have been impossible to build.
   year={2022}
 }
 ```
+
+3. Special thanks to the project mates for the assistance and support.
+- Chia De Han
+- Ng Juan Yong
+- Colin Jiang
