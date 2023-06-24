@@ -33,6 +33,10 @@ After that, put UniCRS_commandline.ipynb into your root folder and execute the l
 
 Our Telebot implemented is suitable only for one user at current. The conversations are cached and duplicated in both the src/data/redial and src/data/redial_gen folders. Further work could be explored at deploying this chatbot at scale in a distributed manner. 
 
+## For further queries of the implementation of the chatbot
+
+Please email me at wjlim.2022@mitb.smu.edu.sg
+
 
 ## Acknowledgement
 
