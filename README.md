@@ -60,7 +60,7 @@ Without them, this chatbot would have been impossible to build.
 }
 ```
 
-3. Special thanks to the project mates for the assistance and support.
+3. Special thanks to my project group mates for the assistance and support.
 - Chia De Han
 - Ng Juan Yong
 - Colin Jiang
