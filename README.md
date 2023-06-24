@@ -1,4 +1,4 @@
-# UniCRS
+## Chat bot Implementation using UniCRS
 
 This is the official PyTorch implementation for the paper:
 
@@ -28,6 +28,10 @@ After that, put UniCRS_commandline.ipynb into your root folder and execute the l
 *Do note that for the training, we have used the A100 GPU on google colab pro and it takes roughly 12 hours to train. We do admit that perhaps a more efficient way can be explored in the training process which we have not done. 
 
 *For inference to be done on the chatbot, please attach an env.py (which contains your API_TOKEN given by BotFather in Telegram) in the src folder of the original UniCRS repository.
+
+## Limitations of our chat bot on telegram
+
+Our Telebot implemented is suitable only for one user at current. The conversations are cached and duplicated in both the src/data/redial and src/data/redial_gen folders. Further work could be explored at deploying this chatbot at scale in a distributed manner. 
 
 
 ## Acknowledgement
